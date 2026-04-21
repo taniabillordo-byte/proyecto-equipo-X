@@ -17,3 +17,12 @@ Este es un proyecto colaborativo realizado como parte de la formación en Git y 
 ## Aportes por miembro
 * **Módulo de Lógica:** Implementación de la clase Producto y cálculos de stock.
 * **Módulo de Interfaz:** Manejo de entradas de consola y formato de salida.
+
+
+## Tecnologías Utilizadas
+* **Lenguaje:** C#
+* **Entorno:** .NET SDK 6.0 / 8.0
+* **Herramientas de Versión:** Git & GitHub
+
+## Notas de Desarrollo
+Este proyecto utiliza el flujo de trabajo GitHub Flow. Cada funcionalidad se desarrolla en una rama independiente antes de ser integrada a la rama principal mediante Pull Requests y revisiones de código.
